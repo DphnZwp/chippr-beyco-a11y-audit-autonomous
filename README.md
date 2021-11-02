@@ -95,9 +95,12 @@ De homepagina heeft geen main met sections daarin. Ze hebben in plaats daarvan a
 
 Ze hebben wel een header met daarin een nav en onderin een footer.
 - Zorg voor een lineaire contentstroom.\
+De homepagina heeft geen tabindex. Dus dit is niet bij hun van toepassing.
+- Vermijd het gebruik van het autofocus attribute.\
+Beyco heeft geen autofocus gebruikt. Dus dit is niet bij hun van toepassing.
 
 ##### Keyboard
-
+- Zorg ervoor dat er een zichtbare focusstijl is voor interactieve elementen waarnaar wordt genavigeerd via toetsenbordinvoer.
 ##### Images
 
 ##### Headings
