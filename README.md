@@ -135,7 +135,7 @@ De homepagina heeft headings.
 - Gebruik slechts één h1 element per pagina of weergave.\
 Er zit alleen maar een h1 element op de homepagina.
 - Heading elementen moeten in een logische volgorde worden geschreven.\
-De headings hebben geen logische volgorde. De kleine kopjes in de How does it work? gedeelte zijn h4 in plaats van h3.
+De headings hebben geen logische volgorde. De kleine kopjes in de "How does it work?" gedeelte zijn h4 in plaats van h3.
 
 ##### Lists
 n.v.t.
