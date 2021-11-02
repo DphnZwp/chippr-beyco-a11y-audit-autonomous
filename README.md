@@ -107,7 +107,7 @@ Search for coffees figures/cards zijn onduidelijk voor screenreaders. Het heeft 
 
 Search for coffees figures/cards zijn onduidelijk voor screenreaders. Het heeft teveel tekst waardoor het moeilijk te begrijpen op een screenreader.
 
-Social icons hebben geen goede benaming voor de focus.
+Social icons hebben geen goede benaming voor de focus.\
 Hier zijn de gefaalde elementen:
 ```html
 <a class="interactive interactive-link layout layout-row gap-small align-cross-center" href="/">
@@ -118,7 +118,7 @@ Hier zijn de gefaalde elementen:
 Je kan makkelijk de tab toets op het toetsenbord gebruiken om naar interactieve elementen te gaan. Alle elementen zitten in de juiste volgorde.
 ##### Images
 - Zorg ervoor dat alle img elementen een alt attribuut hebben.\
-Beyco heeft geen alt in de foto van de map.
+Beyco heeft geen alt in de foto van de map.\
 Code van de afbeelding zonder alt:
 ```html
 <img src="/static/media/fake-map.2863d4ee.png" alt="" width="100%">
