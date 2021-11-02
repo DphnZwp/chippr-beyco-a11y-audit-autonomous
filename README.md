@@ -166,12 +166,6 @@ n.v.t.
 
 ##### Mobile and touch
 
-Remove horizontal scrolling.
-Op kleinere telefoons zoals Iphone 5 is er aan de rechterkant witruimte die zich over de hele lengte van de site verspreid.
-
-Ensure sufficient space between interactive items in order to provide a scroll area.
-Bij de sectie van "Search your coffees" is er niet genoeg ruimte voor de gebruiker om te scrollen. Het zou zo maar kunnen dat je perongeluk 1 van de bedrijven aanklikt waardor je weer terug moet gaan naar de vorige pagina.
-
 ## Referenties
 
 Referenties welke gebruikt zijn bij de webtoegankelijkheid-test. Deze referenties zijn allen in het Engels:
