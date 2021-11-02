@@ -89,7 +89,11 @@ De code voor de lang ziet er goed uit.
 - Geef elke pagina of weergave een unieke titel.\
 De titel van de homepagina is goed vernoemd. De titel van de homepagina is: Worldwide Coffee Trading Platform - Beyco.
 - Zorg ervoor dat de viewport zoom niet is uitgeschakeld.\
-De viewport van de website is niet uitgeschakeld. Daarom kan je op de website goed inzoomen. Je moet minimaal 200% op de website kunnen inzoomen. Bij Beyco werkt hij vanaf 200% nog steeds goed.
+De viewport van de website is niet uitgeschakeld.\
+Hier is de code van de viewport:
+```html
+<meta name="viewport" content="width=device-width,initial-scale=1">
+```
 - Gebruik oriëntatiepunten om belangrijke inhoudsgebieden aan te geven.\
 De homepagina heeft geen main met sections daarin. Ze hebben in plaats daarvan alleen divs gebruikt. In plaats van de main hebben ze een div gebruikt met de id root en daarin andere divs gezet. 
 
