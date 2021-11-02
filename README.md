@@ -80,7 +80,6 @@ De koppen en bodytekst heeft Beyco in de css center aligned. Alleen de tekst in 
 - Valideer uw HTML.\
 De website had alleen maar een waarschuwing.\
 De waarschuwing kan je nog een keer zien op deze link in de html validator: https://validator.w3.org/nu/?doc=https%3A%2F%2Ftest.beyco.chippr.dev%2F
-[https://validator.w3.org/nu/?doc=https%3A%2F%2Ftest.beyco.chippr.dev%2F](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftest.beyco.chippr.dev%2F)
 
 ##### Keyboard
 
