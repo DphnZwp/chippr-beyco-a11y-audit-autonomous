@@ -98,19 +98,58 @@ Ze hebben wel een header met daarin een nav en onderin een footer.
 De homepagina heeft geen tabindex. Dus dit is niet bij hun van toepassing.
 - Vermijd het gebruik van het autofocus attribute.\
 Beyco heeft geen autofocus gebruikt. Dus dit is niet bij hun van toepassing.
+- Verwijder title attribute tooltips.\
+Beyco heeft geen extra titles. Dus dit is niet bij hun van toepassing.
 
 ##### Keyboard
-- Zorg ervoor dat er een zichtbare focusstijl is voor interactieve elementen waarnaar wordt genavigeerd via toetsenbordinvoer.
+- Zorg ervoor dat er een zichtbare focusstijl is voor interactieve elementen waarnaar wordt genavigeerd via toetsenbordinvoer.\
+Search for coffees figures/cards zijn onduidelijk voor screenreaders. Het heeft teveel tekst waardoor het moeilijk te begrijpen op een screenreader.
+
+Search for coffees figures/cards zijn onduidelijk voor screenreaders. Het heeft teveel tekst waardoor het moeilijk te begrijpen op een screenreader.
+
+Social icons hebben geen goede benaming voor de focus.
+Hier zijn de gefaalde elementen:
+```html
+<a class="interactive interactive-link layout layout-row gap-small align-cross-center" href="/">
+<a href="https://www.instagram.com/beyco.nl/">
+<a href="https://www.linkedin.com/company/beyco-nl/">
+```
+- Controleer of de focusvolgorde van het toetsenbord overeenkomt met de visuele lay-out.\
+Je kan makkelijk de tab toets op het toetsenbord gebruiken om naar interactieve elementen te gaan. Alle elementen zitten in de juiste volgorde.
 ##### Images
+- Zorg ervoor dat alle img elementen een alt attribuut hebben.\
+Beyco heeft geen alt in de foto van de map.
+Code van de afbeelding zonder alt:
+```html
+<img src="/static/media/fake-map.2863d4ee.png" alt="" width="100%">
+```
 
 ##### Headings
+- Gebruik heading elementen om inhoud te introduceren.\
+De homepagina heeft headings.
+- Gebruik slechts één h1 element per pagina of weergave.\
+Er zit alleen maar een h1 element op de homepagina.
+- Heading elementen moeten in een logische volgorde worden geschreven.\
+De headings hebben een logische volgorde.
 
 ##### Lists
-
+n.v.t.
 ##### Controls
+- Gebruik het a element voor links.\
+De links van de homepagina hebben allemaal een a href.
+- Zorg ervoor dat links herkenbaar zijn als links.\
+De links van Beyco hebben een grijze rand wanneer ze gefocused zijn.
+- Zorg ervoor dat besturingselementen :focus states hebben.\
+De links hebben allemaal :focus states. Het is alleen dat de figures van het gedeelte Search for coffees geen focus stijl hebben.
+- Gebruik het button element voor knoppen.\
+De knoppen hebben een button element.
+- Zorg voor een skip link en zorg ervoor dat deze zichtbaar is wanneer gefocust.\
+De homepagina heeft geen skip content link.
+- Identificeer links die openen in een nieuw tabblad of venster.\
+De homepagina heeft geen links die naar een nieuw tabblad of venster gaan.
 
 ##### Tables
-
+n.v.t.
 ##### Forms
 
 ##### Media
