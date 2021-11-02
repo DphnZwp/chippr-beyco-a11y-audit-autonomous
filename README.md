@@ -68,7 +68,9 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 ##### Content
 - Schrijf inhoud op lees level 8.⋅⋅
 ⋅⋅⋅De lees level in deze pagina is 11.17. Dus de lees level van de website is goed.
-- 
+- ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 ##### Global code
 
 ##### Keyboard
