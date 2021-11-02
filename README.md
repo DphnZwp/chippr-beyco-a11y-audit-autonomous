@@ -56,7 +56,7 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 ## Testresultaten en aanbevelingen
 
 De huidige website van beyco voldoet niet nivea AA van de WCAG 2.1. Om deze score toch te behalen zijn er een paar aanbevelingen.
-- 
+- huhu
 
 ### Sterke punten
 {Samenvatting van de de sterke punten ...}
