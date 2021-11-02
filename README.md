@@ -74,12 +74,27 @@ De lees level in deze pagina is 11.17. Dus de lees level van de website is goed.
 ```
 Daarom is de code die hierboven te zien is gefaald.
 - Gebruik links uitgelijnde tekst voor links-naar-rechts (LTR)-talen en rechts uitgelijnde tekst voor rechts-naar-links (RTL)-talen.\
-De koppen en bodytekst heeft Beyco in de css center aligned. Alleen de tekst in de footer en in de menu is standaard left-aligned.
+De koppen en bodytekst zijn in de css center aligned. Alleen de tekst in de footer en in de menu is standaard left-aligned.
 
 ##### Global code
 - Valideer uw HTML.\
 De website had alleen maar een waarschuwing.\
 De waarschuwing kan je nog een keer zien op deze link in de html validator: https://validator.w3.org/nu/?doc=https%3A%2F%2Ftest.beyco.chippr.dev%2F
+- Gebruik een lang attribuut op het html-element.\
+Dit is de code van het lang attribuut van Beyco:
+```html
+<html lang="en-us"></html>
+```
+De code voor de lang ziet er goed uit.
+- Geef elke pagina of weergave een unieke titel.\
+De titel van de homepagina is goed vernoemd. De titel van de homepagina is: Worldwide Coffee Trading Platform - Beyco.
+- Zorg ervoor dat de viewport zoom niet is uitgeschakeld.\
+De viewport van de website is niet uitgeschakeld. Daarom kan je op de website goed inzoomen. Je moet minimaal 200% op de website kunnen inzoomen. Bij Beyco werkt hij vanaf 200% nog steeds goed.
+- Gebruik oriëntatiepunten om belangrijke inhoudsgebieden aan te geven.\
+De homepagina heeft geen main met sections daarin. Ze hebben in plaats daarvan alleen divs gebruikt. In plaats van de main hebben ze een div gebruikt met de id root en daarin andere divs gezet. 
+
+Ze hebben wel een header met daarin een nav en onderin een footer.
+- Zorg voor een lineaire contentstroom.\
 
 ##### Keyboard
 
