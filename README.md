@@ -55,7 +55,8 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 
 ## Testresultaten en aanbevelingen
 
-{Samenvatting van testresultaten, bv. deze website {voldoet/ voldoet niet/ is dichtbij aan voldoen} aan de WCAG 2.1, op niveau A, AA of AAA.}
+De huidige website van beyco voldoet niet nivea AA van de WCAG 2.1. Om deze score toch te behalen zijn er een paar aanbevelingen.
+- 
 
 ### Sterke punten
 {Samenvatting van de de sterke punten ...}
@@ -134,7 +135,7 @@ De homepagina heeft headings.
 - Gebruik slechts één h1 element per pagina of weergave.\
 Er zit alleen maar een h1 element op de homepagina.
 - Heading elementen moeten in een logische volgorde worden geschreven.\
-De headings hebben een logische volgorde.
+De headings hebben geen logische volgorde. De kleine kopjes in de How does it work? gedeelte zijn h4 in plaats van h3.
 
 ##### Lists
 n.v.t.
