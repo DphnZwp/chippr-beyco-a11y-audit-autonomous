@@ -68,8 +68,21 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 ##### Content
 - Schrijf inhoud op lees level 8.\
 De lees level in deze pagina is 11.17. Dus de lees level van de website is goed.
-- 
+- Zorg ervoor dat de inhoud van de button, a en label elementen uniek en beschrijvend is.\
+```html
+<button type="button" class="menu-icon-container">
+```
+Daarom is de code die hierboven te zien is gefaald.
+- Gebruik links uitgelijnde tekst voor links-naar-rechts (LTR)-talen en rechts uitgelijnde tekst voor rechts-naar-links (RTL)-talen.\
+De koppen en bodytekst heeft Beyco in de css center aligned. Alleen de tekst in de footer en in de menu is standaard left-aligned.
+
 ##### Global code
+- Valideer uw HTML.\
+De website had alleen maar een waarschuwing.\
+Dit wat de waarschuwing kan je hier zien:\
+\Warning: Consider adding a lang attribute to the html start tag to declare the language of this document.\
+From line 1, column 16; to line 1, column 21\
+type html><html><head>
 
 ##### Keyboard
 
