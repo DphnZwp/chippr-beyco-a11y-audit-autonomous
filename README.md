@@ -80,7 +80,8 @@ De koppen en bodytekst heeft Beyco in de css center aligned. Alleen de tekst in 
 - Valideer uw HTML.\
 De website had alleen maar een waarschuwing.\
 Dit wat de waarschuwing kan je hier zien:\
-\Warning: Consider adding a lang attribute to the html start tag to declare the language of this document.\
+
+Warning: Consider adding a lang attribute to the html start tag to declare the language of this document.\
 From line 1, column 16; to line 1, column 21\
 type html><html><head>
 
