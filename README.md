@@ -79,11 +79,8 @@ De koppen en bodytekst heeft Beyco in de css center aligned. Alleen de tekst in 
 ##### Global code
 - Valideer uw HTML.\
 De website had alleen maar een waarschuwing.\
-Dit wat de waarschuwing kan je hier zien:
-
-Warning: Consider adding a lang attribute to the html start tag to declare the language of this document.\
-From line 1, column 16; to line 1, column 21\
-type html><html><head>
+De waarschuwing kan je nog een keer zien op deze link in de html validator: https://validator.w3.org/nu/?doc=https%3A%2F%2Ftest.beyco.chippr.dev%2F
+[https://validator.w3.org/nu/?doc=https%3A%2F%2Ftest.beyco.chippr.dev%2F](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftest.beyco.chippr.dev%2F)
 
 ##### Keyboard
 
