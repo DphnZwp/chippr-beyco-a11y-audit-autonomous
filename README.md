@@ -63,10 +63,15 @@ Gebruik voor knoppen zonder zichtbare labels, zoals pictogram knoppen, het attri
 - alt-attributen (alt-tekst) geven een beschrijving van een afbeelding voor mensen die ze mogelijk niet kunnen bekijken. Wanneer een alt-attribuut niet aanwezig is op een afbeelding, kan een schermlezer in plaats daarvan de bestandsnaam en het pad van de afbeelding aankondigen. Hierdoor wordt de inhoud van de afbeelding niet gecommuniceerd. Zorg er daarom altijd voor dat de alt attribuut in jullie afbeeldingen wordt gebruikt.
 
 ### Sterke punten
-{Samenvatting van de de sterke punten ...}
+- De lees level in deze pagina is 11.17. Dus de lees level van de website is goed.
+- Er is een lang attribuut gebruikt.
+- De viewport van de website is niet uitgeschakeld.
 
 ### Ontoegankelijke punten
-{Samenvatting van ontoegankelijke punten ...}
+- De inhoud van een button is neit uniek en beschrijvend.
+- Social icons hebben geen goede benaming voor de focus.
+- Sommige elementen hebben geen zichtbare focusstijl
+- Sommige headings hebben geen logische volgorde.
 
 ### Checklist 
 
@@ -112,8 +117,6 @@ Beyco heeft geen extra titles. Dus dit is niet bij hun van toepassing.
 
 ##### Keyboard
 - Zorg ervoor dat er een zichtbare focusstijl is voor interactieve elementen waarnaar wordt genavigeerd via toetsenbordinvoer.\
-Search for coffees figures/cards zijn onduidelijk voor screenreaders. Het heeft teveel tekst waardoor het moeilijk te begrijpen op een screenreader.
-
 Search for coffees figures/cards zijn onduidelijk voor screenreaders. Het heeft teveel tekst waardoor het moeilijk te begrijpen op een screenreader.
 
 Social icons hebben geen goede benaming voor de focus.\
