@@ -56,7 +56,9 @@ De tools die zijn gebruikt voor deze beoordeling zijn de volgende:
 ## Testresultaten en aanbevelingen
 
 De huidige website van beyco voldoet niet nivea AA van de WCAG 2.1. Om deze score toch te behalen zijn er een paar aanbevelingen.
-- huhu
+- Voeg voor knoppen met zichtbare labels tekstinhoud toe aan het knop element. Maak van het label een duidelijke call-to-action. Bijvoorbeeld: <button>Menu</button>
+Gebruik voor knoppen zonder zichtbare labels, zoals pictogram knoppen, het attribuut aria-label om de actie duidelijk te beschrijven voor iedereen die een ondersteunende technologie gebruikt.
+
 
 ### Sterke punten
 {Samenvatting van de de sterke punten ...}
