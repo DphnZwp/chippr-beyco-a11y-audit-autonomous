@@ -68,7 +68,7 @@ Gebruik voor knoppen zonder zichtbare labels, zoals pictogram knoppen, het attri
 - De viewport van de website is niet uitgeschakeld.
 
 ### Ontoegankelijke punten
-- De inhoud van een button is neit uniek en beschrijvend.
+- De inhoud van een button is niet uniek en beschrijvend.
 - Social icons hebben geen goede benaming voor de focus.
 - Sommige elementen hebben geen zichtbare focusstijl
 - Sommige headings hebben geen logische volgorde.
