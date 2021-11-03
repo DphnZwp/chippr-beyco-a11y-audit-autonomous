@@ -181,11 +181,8 @@ Referenties welke gebruikt zijn bij de webtoegankelijkheid-test. Deze referentie
 {Vul aan waar nodig, haal weg wat niet relevant is}
 
 ## Bijlagen
-
-{Geef een opsomming van de bijlagen, zoals links naar rapportages, screenshots en uitleg in de Wiki}
-
-
-[Einde van het template]
+Afbeelding van huidige acessibility
+![Schermafbeelding 2021-10-28 214101](https://user-images.githubusercontent.com/69635977/140180222-15d4e284-8988-4897-8641-ecb5d0fda9c1.png)
 
 ## Licentie
 
