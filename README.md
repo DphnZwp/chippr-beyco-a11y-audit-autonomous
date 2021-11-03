@@ -59,6 +59,8 @@ De huidige website van beyco voldoet niet nivea AA van de WCAG 2.1. Om deze scor
 - Voeg voor knoppen met zichtbare labels tekstinhoud toe aan het knop element. Maak van het label een duidelijke call-to-action. Bijvoorbeeld: <button>Menu</button>
 Gebruik voor knoppen zonder zichtbare labels, zoals pictogram knoppen, het attribuut aria-label om de actie duidelijk te beschrijven voor iedereen die een ondersteunende technologie gebruikt.
 - Net als bij knoppen, ontlenen links hun toegankelijke naam voornamelijk aan hun tekstinhoud. Vermijd invulwoorden zoals "Hier" of "Lees meer;" plaats in plaats daarvan de meest betekenisvolle tekst in de link zelf. Gebruik voor links met pictogram knoppen, het attribuut aria-label om de actie duidelijk te beschrijven voor iedereen die een ondersteunende technologie gebruikt. Dus voor de gefaalde elementen kan dus een aria-label gebruikt worden, omdat dat sociale media pictogrammen zijn.
+- Verwijder de mogelijkheid om te focussen op elementen die momenteel niet bedoeld zijn om te worden ontdekt. Dit omvat zaken als inactieve vervolg keuzemenu's, navigatie buiten het scherm of modals.
+- alt-attributen (alt-tekst) geven een beschrijving van een afbeelding voor mensen die ze mogelijk niet kunnen bekijken. Wanneer een alt-attribuut niet aanwezig is op een afbeelding, kan een schermlezer in plaats daarvan de bestandsnaam en het pad van de afbeelding aankondigen. Hierdoor wordt de inhoud van de afbeelding niet gecommuniceerd. Zorg er daarom altijd voor dat de alt attribuut in jullie afbeeldingen wordt gebruikt.
 
 ### Sterke punten
 {Samenvatting van de de sterke punten ...}
