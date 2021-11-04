@@ -1,5 +1,5 @@
 # Rapportage webtoegankelijkheid-test voor Beyco
-![mockup](https://user-images.githubusercontent.com/69635977/140180862-e4909da1-2f1d-415a-bdc4-b57327ffc83d.jpg)
+![mockup](https://user-images.githubusercontent.com/69635977/140180862-e4909da1-2f1d-415a-bdc4-b57327ffc83d.jpg)\
 *Dit document is een template voor een webtoegankelijkheid-test volgens de Web Content Accessibility Guidelines (WCAG). Een consistente rapportage helpt bij het uitvoeren van een evaluatie en zorgt er voor dat verschilelnde tests kunnen worden vergeleken.*
 
 Datum webtoegankelijkheid-test: 28-10-2021
